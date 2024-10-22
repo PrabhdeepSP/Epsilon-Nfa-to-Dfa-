@@ -12,7 +12,7 @@ Proving the optimality of a greedy algorithm can be challenging, but it is essen
 ### Steps to Prove Optimality
 
 1. **Define Solutions**:
-   - Clearly define what constitutes a greedy solution (let’s call it $$ G $$) and an optimal solution (let’s call it $$ O $$). 
+   - Clearly define what constitutes a greedy solution (let’s call it $ G $) and an optimal solution (let’s call it $ O $). 
 
 2. **Establish a Measure**:
    - Identify a measure or metric that allows you to compare the greedy solution $$ G $$ and the optimal solution $$ O $$. This could be based on cost, weight, or any relevant criteria depending on the problem.
